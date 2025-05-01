@@ -11,11 +11,11 @@
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Cloud-Monitoring-Qwik-Start-GSP089-Updated/refs/heads/main/qwiklab_explorers_gsp089.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Awwvision-Cloud-Vision-API-from-a-Kubernetes-Cluster-GSP066/refs/heads/main/qwiklab_explorers_gsp066.sh
 
-sudo chmod +x qwiklab_explorers_gsp089.sh
+sudo chmod +x qwiklab_explorers_gsp066.sh
 
-./qwiklab_explorers_gsp089.sh
+./qwiklab_explorers_gsp066.sh
 ```
 
 ---
