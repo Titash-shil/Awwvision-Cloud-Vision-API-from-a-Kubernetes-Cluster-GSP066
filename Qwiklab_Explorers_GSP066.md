@@ -11,6 +11,10 @@
  - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
+export ZONE=
+```
+
+```
 curl -LO raw.githubusercontent.com/Titash-shil/Awwvision-Cloud-Vision-API-from-a-Kubernetes-Cluster-GSP066/refs/heads/main/qwiklab_explorers_gsp066.sh
 
 sudo chmod +x qwiklab_explorers_gsp066.sh
