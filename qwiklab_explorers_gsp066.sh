@@ -20,6 +20,7 @@ BOLD=`tput bold`
 RESET=`tput sgr0`
 #----------------------------------------------------start--------------------------------------------------#
 
+echo "${GREEN}${BOLD}Starting${RESET}" "${GREEN}${BOLD}Execution${RESET}"
 
 gcloud config set compute/zone $ZONE
 
@@ -53,6 +54,6 @@ kubectl get deployments -o wide
 
 kubectl get svc awwvision-webapp
 
-echo "${GREEN}${BOLD}Congratulations${RESET}" "${YELLOW}${BOLD}for${RESET}" "${BLUE}${BOLD}Completing the Lab !!!${RESET}"
+echo "${GREEN}${BOLD}Congratulations${RESET}" "${YELLOW}${BOLD}You completed${RESET}" "${BLUE}${BOLD}the Lab easily !!${RESET}"
 
 #-----------------------------------------------------end----------------------------------------------------------#
